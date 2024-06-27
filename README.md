@@ -10,4 +10,4 @@ Elaboras modelagem ER, configurar prisma e criar models e elaborar API's para CR
 
 <b>Tecnologias utilizadas:</b>
 
-## NODE.JS + EXPRESS + TYPESCRIPT + POSTEGRESQL + PRISMA (ORM) 
+## NODE.JS + EXPRESS + TYPESCRIPT + POSTGRESQL + PRISMA (ORM) 
